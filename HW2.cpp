@@ -18,8 +18,8 @@ int main()
 	float option;
 	int loopnum, ohmVal;
 	float totalres = 0.0;
-	int burdenMaxV = 25, burdenMaxI = 25;
-	//other variables here
+	int burdenMaxV = 25, burdenMaxI = 25; //arbitrary critical values
+	
 	do
 	{
 		menu();
